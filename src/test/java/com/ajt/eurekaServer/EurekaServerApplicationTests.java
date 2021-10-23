@@ -1,4 +1,4 @@
-package com.ajt.EurekaServer;
+package com.ajt.eurekaServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

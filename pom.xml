@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ajt</groupId>
-	<artifactId>EurekaServer</artifactId>
+	<artifactId>eurekaServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EurekaServer</name>
-	<description>Sample Eureka server application</description>
+	<name>eurekaServer</name>
+	<description>Sample Eureka server application to holds the information about all client-service applications</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2020.0.4</spring-cloud.version>
